@@ -4,6 +4,7 @@ public class App {
         int b = 7;
         System.out.println(sum(a, b));
         System.out.println(div(a, b));
+        System.out.println("test");
     }
 
     public static int sum(int a, int b) {
